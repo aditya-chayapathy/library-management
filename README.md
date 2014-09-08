@@ -2,10 +2,16 @@ Library-Management
 ==================
 
 Project title:	Library Management
+
 Language:	C++ 
+
 IDE:	Turbo C++ 
+
 Total team members:	1
+
 My role:	Software Developer
+
+
 
 Description:
 
